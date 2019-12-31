@@ -8,3 +8,4 @@ To start
 - gulp seed
 - gulp start
 # al-proxy-sdc
+# al-sdc-proxy-server
